@@ -20,6 +20,7 @@ Currently: building a systematic research platform in Python, and writing freefo
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -34,8 +35,37 @@ Currently: building a systematic research platform in Python, and writing freefo
 ![Parquet](https://img.shields.io/badge/Apache_Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron_/_Scheduled_Jobs-4B4B4B?style=flat-square&logo=gnubash&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Checkstyle](https://img.shields.io/badge/Checkstyle-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**AI & LLM Tooling**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+
+**Graphics & Media**
+
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Manim](https://img.shields.io/badge/Manim-2A6A5B?style=flat-square&logo=python&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+**Security & Low-Level**
+
+![Ghidra](https://img.shields.io/badge/Ghidra-CF2C2C?style=flat-square&logo=ghidra&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB_/_pwndbg-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Applied_Cryptography-2C3E50?style=flat-square&logo=letsencrypt&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web_Security_(XSS_·_CSRF_·_SOP)-2C3E50?style=flat-square&logo=owasp&logoColor=white)
+
+**Hardware**
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![OpenBCI](https://img.shields.io/badge/OpenBCI-2E86AB?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
