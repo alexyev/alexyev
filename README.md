@@ -2,7 +2,7 @@
 
 CS + Business student at **UNC Chapel Hill** (Morehead-Cain Scholar, class of '28). I build things at the intersection of **data, climate, and markets** — crop phenology tools for smallholder farmers, carbon-credit analysis pipelines, and a point-in-time equity backtesting platform.
 
-Currently: building a systematic research platform in Python, and writing freeform philosophy on Substack.
+Currently: building a systematic research platform in Python and a fundraising platform for Engineering at Carolina.
 
 ---
 
@@ -79,10 +79,6 @@ Currently: building a systematic research platform in Python, and writing freefo
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![OpenBCI](https://img.shields.io/badge/OpenBCI-2E86AB?style=flat-square&logo=arduino&logoColor=white)
 
-**Day to day**
-
-Shell scripting and CLI work (`grep`, `sed`, `awk`, `jq`, `ssh`, `rsync`, `tmux`) · Git branching and code review · CI/CD pipelines · Unit testing · Virtual environments and dependency management (`venv`, `pip`, `npm`) · Agile / sprint workflows
-
 ---
 
 ## 📌 What I'm working on
@@ -134,4 +130,4 @@ Sensor glove and interactive game for injury rehab at UNC's Experimental Enginee
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexanderyevchenko/)
 [![Email](https://img.shields.io/badge/Email-ayev%40unc.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayev@unc.edu)
 
-I write freeform philosophy on Substack. I also co-hosted the **Collimator** podcast.
+I also co-hosted the **Collimator** podcast.
