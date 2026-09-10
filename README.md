@@ -2,7 +2,7 @@
 
 CS + Business student at **UNC Chapel Hill** (Morehead-Cain Scholar, class of '28). I build things at the intersection of **data, climate, and markets** — crop phenology tools for smallholder farmers, carbon-credit analysis pipelines, and a point-in-time equity backtesting platform.
 
-Currently: building a systematic research platform in Python and a fundraising platform for Engineering at Carolina.
+Currently: building autonomous drones @ AI@UNC and a fundraising platform for Engineering@Carolina.
 
 ---
 
