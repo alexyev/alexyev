@@ -21,8 +21,21 @@ Currently: building autonomous drones @ AI@UNC and a fundraising platform for En
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![MapLibre GL](https://img.shields.io/badge/MapLibre_GL-396CB2?style=flat-square&logo=maplibre&logoColor=white)
+![deck.gl](https://img.shields.io/badge/deck.gl-000000?style=flat-square&logo=webgl&logoColor=white)
+![D3](https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=d3&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white)
+![Shapely](https://img.shields.io/badge/Shapely-4B8BBE?style=flat-square&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
@@ -39,6 +52,10 @@ Currently: building autonomous drones @ AI@UNC and a fundraising platform for En
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=googlechrome&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=F7B93E)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -57,6 +74,7 @@ Currently: building autonomous drones @ AI@UNC and a fundraising platform for En
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![TypeSafe AI](https://img.shields.io/badge/TypeSafe_AI_(Jev)-2C3E50?style=flat-square&logo=typescript&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 **Graphics & Media**
@@ -93,6 +111,9 @@ Point-in-time-correct research and backtesting engine over a 25-year, 3000+ equi
 
 ## 📦 Previously
 
+### Schoolscape · `TypeScript` · `Python` · `MapLibre` · `deck.gl` · *2026*
+🥇 **1st place, Social Sciences track, Carolina Data Challenge 2026.** [Interactive map](https://schoolscape.alexanderyevchenko.com) of community stress around all 23,595 US public high schools, built on Johns Hopkins' ODIS data. Python pipeline (**pandas**, **GeoPandas**, **SciPy**, **scikit-learn**, **statsmodels**) that recovered 99.98% of spreadsheet-corrupted school IDs and ran national and regional analyses. **React** + **Vite** frontend with **MapLibre GL**, **deck.gl**, and **D3**, live stats in a Web Worker, and a plain-English "Ask the map" bar powered by **Jev** (TypeSafe AI) with a **Claude Haiku** fallback. Deployed on **Vercel**, tested with **Vitest** and **Playwright**.
+
 ### Cultura · `Next.js` · `Python` · `Supabase` · *2023–2025*
 Crop phenology app for small-scale farmers. Weather ingestion via the **OpenWeatherMap API**, **Postgres** on Supabase, deployed on **Vercel**. Backed by Emergent Ventures, The Iris Project, and Ingenious+; presented at WebSummit Lisbon and SXSW.
 
@@ -108,9 +129,10 @@ Sensor glove and interactive game for injury rehab at UNC's Experimental Enginee
 
 | Event | Project | Stack |
 |---|---|---|
-| **HackTheNorth '22** 🥇 | **brAInstorm** — EEG-to-art pipeline | OpenBCI, Flask, Midjourney |
-| **HackPrinceton '24** | **Clara** — immigration interview simulator | Next.js, HeyGen, GPT API |
-| **HoyaHacks '25** | **AceGlass** — real-time poker assistant glasses | Raspberry Pi 5, GPT API, PyPokerEngine |
+| **HackTheNorth '22** 🥇 | **brAInstorm** - EEG-to-art pipeline | OpenBCI, Flask, Midjourney |
+| **HackPrinceton '24** | **Clara** - immigration interview simulator | Next.js, HeyGen, GPT API |
+| **HoyaHacks '25** | **AceGlass** - real-time poker assistant glasses | Raspberry Pi 5, GPT API, PyPokerEngine |
+| **Carolina Data Challenge '26** 🥇 | **Schoolscape** - community stress map of 23,595 US high schools | Python, GeoPandas, React, MapLibre, deck.gl, TypeSafe AI |
 
 ---
 
